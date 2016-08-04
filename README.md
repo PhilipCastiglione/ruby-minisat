@@ -1,3 +1,15 @@
+# THIS IS NOT MY THING
+I forked this so I could patch the c and make it compile on os x, because
+I wanted to install sciruby-full and this is one of MANY MANY impediments
+to me doing so. Honestly ruby, if we ever want to compete with Python for
+science programming stuff we need to get out shit together.
+  
+Otherwise Python is a pretty sweet language too, so y'know, whatever.
+  
+Back to the scheduled programme...
+
+***
+
 # Minisat
 
 ruby-minisat is ruby binding for MiniSat, an open-source SAT solver.
